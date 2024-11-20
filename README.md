@@ -22,10 +22,10 @@ Seasonal Trends Summer and Holiday Peaks: Bookings increase during summer months
 Occupancy Insights High Availability in Outer Boroughs: Listings in Queens and Bronx often have higher availability, indicating underutilization. Adjusting pricing strategies may help improve occupancy rates.
 
 # How to Use the Project
-Clone the repository: bash Copy code git clone https://github.com/D-K02/Airbnb_Listings_Data_Analysis.git Open the .pbix file in Power BI Desktop to explore the visuals and insights.
+Clone the repository: bash Copy code git clone https://github.com/shan206/Airbnb_Listings_Data_Analysis.git Open the .pbix file in Power BI Desktop to explore the visuals and insights.
 
 # LinkedIn Post
-Check out my LinkedIn post to learn more about this project and join the conversation: [LinkedIn Post]
+Check out my LinkedIn post to learn more about this project and join the conversation:https://www.linkedin.com/posts/shanavas-ellikkal-akbar-03b545339_powerbi-dataanalysis-airbnb-activity-7264967177210933248-zp4X?utm_source=share&utm_medium=member_desktop
 
 # Conclusion
 This analysis reveals key patterns in Airbnb listings across New York City. It provides valuable insights for hosts to optimize their listings, target the right markets, and improve guest experiences.
